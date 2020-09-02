@@ -1,0 +1,7 @@
+C:\Users\Erik\source\repos\Story\Story\bin\Debug\Story.exe.config
+C:\Users\Erik\source\repos\Story\Story\bin\Debug\Story.exe
+C:\Users\Erik\source\repos\Story\Story\bin\Debug\Story.pdb
+C:\Users\Erik\source\repos\Story\Story\obj\Debug\Story.csprojAssemblyReference.cache
+C:\Users\Erik\source\repos\Story\Story\obj\Debug\Story.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\Story\Story\obj\Debug\Story.exe
+C:\Users\Erik\source\repos\Story\Story\obj\Debug\Story.pdb
